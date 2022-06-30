@@ -12,6 +12,6 @@
 ## HTTP
 * ...[inetol.net](https://www.inetol.net) domain evaluated.
 
-![](https://img.shields.io/mozilla-observatory/grade/www.inetol.net?label=Observatory&style=flat-square)
+![](https://img.shields.io/website?label=Status&style=flat-square&url=https%3A%2F%2Fwww.inetol.net)
 ![](https://img.shields.io/security-headers?label=Headers%20Grade&style=flat-square&url=https%3A%2F%2Fwww.inetol.net)
 ![](https://img.shields.io/hsts/preload/inetol.net?label=HSTS&style=flat-square)
